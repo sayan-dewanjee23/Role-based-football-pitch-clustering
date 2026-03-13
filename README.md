@@ -1,0 +1,1 @@
+This is the repository for unsupervised clustering algorithm of football pitch. To the best of the authors' knowledge, no study has been conducted on use of event data for clustering football pitch. This project is supervised by Professor Soham Sarkar, Indian Statistical Institute.
